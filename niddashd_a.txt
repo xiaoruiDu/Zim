@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-10-13T10:45:33+08:00
-
-====== niddashd a ======
-Created 星期日 13 十月 2019
-
